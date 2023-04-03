@@ -11,6 +11,6 @@ ___
     python main.py median (rad) (input_file) (output_file)
 ### Фильтр Гаусса с параметром $\sigma_d$. Запуск:
     python main.py gauss (sigma_d) (input_file) (output_file)
-### Билатеральная фильтрация с параметрами $\sigma_d$ и $sigma_r$. Запуск:
+### Билатеральная фильтрация с параметрами $\sigma_d$ и $\sigma_r$. Запуск:
     python main.py bilateral (sigma_d) (sigma_r) (input_file) (output_file)
 Значение rad - целое положительное, значения sigma_d и sigma_r - вещественные положительные.
